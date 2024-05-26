@@ -14,10 +14,7 @@ const ContactInfo = () => {
                 <FaPhoneAlt />
                 <span className="text">+91 7800736965</span>
             </div>
-            <div className="contact-option"
-             onClick={() => {
-                window.open("https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRvwLrGRJdvDxMMRnKsJczzWtsnGPNVvbkMKmMLnqGCSJzBVDvxZVSKXJhnpXZtKChNvfqV", "_blank");
-            }}>
+            <div className="contact-option">
                 <MdEmail />
                 <span className="text">prashant.gate2020@gmail.com</span>
             </div>
