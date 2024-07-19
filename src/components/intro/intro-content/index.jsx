@@ -25,7 +25,7 @@ const IntroContent = () => {
                         <span className="big-text">Prashant Shukla</span>
                     </h1>
                     <p className="title">
-                    A frontend developer with 2 years of experience and a Master's degree in Computer Science & Engineering from IIT Roorkee.
+                    A frontend developer with 2+ years of experience and a Master's degree in Computer Science & Engineering from IIT Roorkee.
                     Passionate about creating impactful user experiences through innovative problem-solving and design. 
                     Proficient in frontend technologies and adept at utilizing various programming languages, libraries, and frameworks.
                     </p>
