@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { AiOutlineCloudDownload } from "react-icons/ai";
-import Resume from "../../download/Prashant_shukla.pdf";
+import Resume from "../../download/Prashant.pdf";
 import { CgMenuRight } from "react-icons/cg";
 import { IoMdClose } from "react-icons/io";
 import CallToAction from "../../shared/CallToAction";

@@ -1,7 +1,7 @@
 import React from "react";
 import { FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-import {FaLinkedinIn} from "react-icons/fa";
+// import {FaLinkedinIn} from "react-icons/fa";
 import "./style.scss";
 
 const ContactInfo = () => {
@@ -16,16 +16,16 @@ const ContactInfo = () => {
             </div>
             <div className="contact-option">
                 <MdEmail />
-                <span className="text">prashant.gate2020@gmail.com</span>
+                <span className="text">prashant780073@gmail.com</span>
             </div>
-            <div className="contact-option" 
+            {/* <div className="contact-option" 
              onClick={() => {
                 window.open("https://www.linkedin.com/in/prashant-shukla-1117031b1/", "_blank");
             }}>
                         <FaLinkedinIn />
-                        <span className="text">prashant-shukla-1117031b1</span>
+                        <span className="text">prashant-shukla-1117031b1</span> 
                         
-            </div>
+            </div> */}
         </div>
     );
 };
